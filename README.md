@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/YqIisiI.png" width=500px height=500px>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/YqIisiI.png" width=600px height=500px class="center">
  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/YdnH9M7.png">
  <img alt="YOUR-ALT-TEXT" src="https://i.imgur.com/GAI3DZ3.png">
 </picture>
