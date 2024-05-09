@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/YqIisiI.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/YdnH9M7.png">
+ <img alt="YOUR-ALT-TEXT" src="https://i.imgur.com/GAI3DZ3.png">
+</picture>
+
+
+
 <!--
 **spectrespectre0/spectrespectre0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
