@@ -10,5 +10,5 @@
 <li>Artifical Intelligence</li></div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirisame-ame&layout=compact&hide=jupyter%20notebook" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirisame-ame&layout=compact" alt="Top Languages" />
 </p>
