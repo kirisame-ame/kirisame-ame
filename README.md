@@ -1,8 +1,8 @@
 <h1 align="center">
- Hi there 👋 こんにちは！
+ Hi there 👋 こんにちは EN/ID/JP！
 </h1>
-<p>Undergraduate student at Institut Teknologi Bandung, majoring in Information Engineering</p></br>
-<p>Artificial Intelligence Laboratory Assistant @ STEI ITB</p>
+<p>Final Year Comp Sci student at Institut Teknologi Bandung</p></br>
+<p>Research Engineer @ AI Center ITB; AI Lab Assistant @ STEI ITB</p>
 <div><h2>Interests:</h2>
 <li>
  Data Science
