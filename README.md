@@ -3,7 +3,7 @@
 </h1>
 <p>Final Year Comp Sci student at Institut Teknologi Bandung</p></br>
 <p>Research Engineer @ AI Center ITB; AI Lab Assistant @ STEI ITB</p>
-<div><h2>Interests:</h2>
+<div><h2>Specializations:</h2>
 <li>
  Data Science
 </li>
